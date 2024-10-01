@@ -24,6 +24,6 @@ Starting a new side hustle is tough but proper research and analysis is importan
 
 Acknowledgment:
 
-I would like to thank the person in Udacity for helping resolve the missing data files for this project. Also, I would like to thank the persons from the relevant websites below for their content in these webpages.
+I would like to thank the persons from the relevant websites below for their content in these webpages.
 
 https://stackoverflow.com/questions/66657047/showing-all-rows-and-columns-of-pandas-dataframe
