@@ -9,9 +9,9 @@ The motivation for this project is that I am curious on how Airbnb became so pop
 #Files in this project
 
 The data consists of 5 files which are described below.
-listings.csv — This provides a list of all the properties with all the relevant attributes to help a person (customer) determine if they want to stay there.
-calendar.csv — This provides the availability of the properties so that a person (customer) can make a booking on it to stay.
-reviews.csv — This provides the feedback from persons (customers) who would have rented the property.
+data.zip/listings.csv — This provides a list of all the properties with all the relevant attributes to help a person (customer) determine if they want to stay there.
+data.zip/calendar.csv — This provides the availability of the properties so that a person (customer) can make a booking on it to stay.
+data.zip/reviews.csv — This provides the feedback from persons (customers) who would have rented the property.
 writingadatascienceblogpost.ipynb - This is the notebook used for the analysis.
 writingadatascienceblogpost.html - This is the html output of the notebook used for the analysis.
 
